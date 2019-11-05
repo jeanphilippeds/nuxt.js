@@ -58,7 +58,7 @@
     "@nuxt/cli": "2.10.1",
     "@nuxt/core": "2.10.1",
     "node-fetch": "^2.6.0",
-    "vue": "https://github.com/jeanphilippeds/vue.git#cc96f0d864bea16771181976510a0345c0eccc65",
+    "vue": "https://github.com/jeanphilippeds/vue.git#2f0e4b251ef9cd44bdaf4d5d8b7e0349287c6e48",
     "vue-client-only": "^2.0.0",
     "vue-meta": "^2.3.1",
     "vue-no-ssr": "^1.1.1",
